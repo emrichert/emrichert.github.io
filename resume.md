@@ -15,7 +15,7 @@ Versatile student with relevant interest in veterinarian science.
 ## Brown University (Providence, RI) 
 
 
-* Cat Name Identifier * (Dec 2018 - Dec 2020)
+**Cat Name Identifier** (Dec 2018 - Dec 2020)
 
 Guessed names of cats with 95% accuracy, especially if of the food type
 
@@ -24,7 +24,7 @@ Guessed names of cats with 95% accuracy, especially if of the food type
 
 ## University of Miami (Coral Gables, FL)
 
-* Microbiologist Assistant * (Feb 2022 - Apr 2025)
+**Microbiologist Assistant** (Feb 2022 - Apr 2025)
 
 Assisted scientists with specimen and sample handling, with focus on maintaining orderliness and proper data tracking.
 
@@ -32,7 +32,7 @@ Assisted scientists with specimen and sample handling, with focus on maintaining
 
 ## University of Washington (Seattle, WA)
 
-* Seafabcafe Barista* (Sep 2024 - Jan 2026)
+**Seafabcafe Barista** (Sep 2024 - Jan 2026)
 
 Took orders, made drinks, served food items, keeping store clean and orderly.
 
